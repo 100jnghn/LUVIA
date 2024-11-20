@@ -9,7 +9,7 @@
 <br>
 
 ## 수상 내역
-- 2024 한성대학교 캡스톤디자인 전시회 - 우수상
+- 2024 한성대학교 캡스톤 디자인 전시회 - 우수상
 - 2024 한국 컴퓨터그래픽스학회 학술대회 - 학부 우수 포스터상
 
 ![image](https://github.com/R-VAM/LUVIA/assets/56534003/6674099a-bc19-43af-9b28-8292d599098f)
@@ -58,3 +58,6 @@
 <br>
 
 ## 3. 기능 설명
+⬇️Click to play with youtube⬇️
+<br>
+[![LUVIA](http://img.youtube.com/vi/M_PIp5lVdVc/0.jpg)](https://youtu.be/M_PIp5lVdVc?t=0s) 
