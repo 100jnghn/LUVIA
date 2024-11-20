@@ -3,8 +3,8 @@
 
 
 # LUVIA 
-- 가상현실 동물 해부 실험 서비스<br>
-(2024) HSU Capstone Design
+- 가상현실 동물 해부 실험 서비스
+- (2024) HSU Capstone Design
 <br>
 <br>
 
@@ -58,7 +58,7 @@
 <br>
 
 ## 3. 기능 설명
-#### ⬇️ Click to play with youtube ⬇️
+#### ⬇️ Click IMG to play with youtube ⬇️
 <br>
 
 [![LUVIA](http://img.youtube.com/vi/M_PIp5lVdVc/0.jpg)](https://youtu.be/M_PIp5lVdVc?t=0s) 
